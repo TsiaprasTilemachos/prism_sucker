@@ -1,3 +1,3 @@
-<p  style="text-align: left;font-family: consolas; font-size: 18px;">
-Images included in all of the notebooks, conviniently in one spot
-</p>
+<h1  style="text-align: left;font-family: consolas; font-size: 18px;">
+All images of this repository, conviniently in one spot
+</h1>
